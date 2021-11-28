@@ -1,20 +1,19 @@
 <div align="center">
   
-<h1>Hi, I'm Kuoyuan Li</h1>
+<h1>Hi, I'm Kuoyuan Li <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
   
 [LinkedIn](https://www.linkedin.com/in/kuoyuan-li/)  | [Email](kuoyuanl@student.unimelb.edu.au)
 
-Master student at **The University of Melbourne**，Major in **Computer Science**💻
+I am a Master student at **The University of Melbourne**，Major in **Computer Science**💻
 
-## Interests
+### My Interests
 
 Artificial Intelligence, Machine Learning, Computer Vision
 
 Software development, algorithms and computer science theories
   
-</div>
 
-### Some of my projects
+### My projects
 
 <a href="https://github.com/Kuoyuan-Li/game-shadow-bounce">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=game-shadow-bounce&show_owner=true" />
@@ -31,7 +30,8 @@ Software development, algorithms and computer science theories
 <a href="https://github.com/Kuoyuan-Li/GHSeportfolio">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
 </a>
-
+  
+</div>
 <!--
 **Kuoyuan-Li/Kuoyuan-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
