@@ -6,6 +6,8 @@
 
 I am a Master student at **The University of Melbourne**，Major in **Computer Science**💻
 
+I am enthusiastic about learning everything about computer science and software engineer ❤️
+ 
 ### My Interests
 
 Artificial Intelligence, Machine Learning, Computer Vision
@@ -31,7 +33,12 @@ Software development, algorithms and computer science theories
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
 </a>
   
-</div>
+### My current learning path
+Using **Pytorch[https://pytorch.org/]** to develop deep learning models
+
+If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t be hesitate to contact me! I am glad to meet new people and make new friends 😃
+</div> 
+
 <!--
 **Kuoyuan-Li/Kuoyuan-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
