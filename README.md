@@ -6,10 +6,13 @@
 
 Master student at **The University of Melbourne**，Major in **Computer Science**💻
 
-## Interests ❤️ 
+## Interests
 
-**Artificial Intelligence, Machine Learning, Computer Vision **
-**Outdoors, Spending time with friends **
+Artificial Intelligence, Machine Learning, Computer Vision
+
+Software development, algorithms and computer science theories
+  
+</div>
 
 ### Some of my projects
 
