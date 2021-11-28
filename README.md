@@ -23,3 +23,15 @@ Here are some ideas to get you started:
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=game-shadow-bounce&show_owner=true" />
 </a>
 
+<a href="https://github.com/Kuoyuan-Li/game-whist">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=game-whist&show_owner=true" />
+</a>
+
+<a href="https://github.com/Kuoyuan-Li/pacman-AI">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=pacman-AI&show_owner=true" />
+</a>
+
+<a href="https://github.com/Kuoyuan-Li/GHSeportfolio">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
+</a>
+
