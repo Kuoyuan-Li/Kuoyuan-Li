@@ -6,7 +6,7 @@
 
 I am a Master student at **The University of Melbourne**，Major in **Computer Science**💻
 
-I am enthusiastic about learning everything about computer science and software engineer ❤️
+I am enthusiastic about learning everything related to computer science and software engineer ❤️
  
 ### My Interests
 
