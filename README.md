@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<details>
+<summary>My Repositories</summary>
+
+<a href="https://github.com/Kuoyuan-Li/game-shadow-bounce">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=game-shadow-bounce&show_owner=true" />
+</a>
+</details>
