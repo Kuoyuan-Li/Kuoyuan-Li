@@ -46,6 +46,7 @@ Software development, algorithms and computer science theories
 Using **[Pytorch](https://pytorch.org/)** to develop deep learning models
 
 If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t be hesitate to contact me! I am glad to meet new people and make new friends 😃
+  
 </div> 
 
 <!--
