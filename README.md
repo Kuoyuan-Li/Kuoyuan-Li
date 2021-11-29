@@ -33,6 +33,15 @@ Software development, algorithms and computer science theories
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
 </a>
   
+<a href="https://github.com/Kuoyuan-Li/Azure-CookingTimeEstimation">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Azure-CookingTimeEstimation&show_owner=true" />
+</a>
+  
+<a href=" https://github.com/Kuoyuan-Li/NaiveBayes-from-scratch">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=NaiveBayes-from-scratch&show_owner=true" />
+</a>
+
+
 ### My current learning path
 Using **[Pytorch](https://pytorch.org/)** to develop deep learning models
 
