@@ -45,8 +45,8 @@ Software development, algorithms and computer science theories
 <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Vanishing-Point-Estimation&show_owner=true" />
 </a>
 
-### My current learning path
-Using **[Pytorch](https://pytorch.org/)** to develop deep learning models
+### My current research
+Neural radiance field (NeRF) driven controllable portrait generation.
 
 If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t be hesitate to contact me! I am glad to meet new people and make new friends 😃
   
