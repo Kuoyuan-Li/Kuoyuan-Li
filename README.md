@@ -4,7 +4,7 @@
   
 [LinkedIn](https://www.linkedin.com/in/kuoyuan-li/)  | [Email](kuoyuanl@student.unimelb.edu.au)
 
-I am a Master student at **The University of Melbourne**，Major in **Computer Science**💻
+I am a Software Engineer working at [Seminal](https://www.linkedin.com/company/seminal-one/mycompany/). I graduated from **The University of Melbourne** with a degree in **Master of Computer Science**💻
 
 I am enthusiastic about learning everything related to computer science and software engineer ❤️
  
@@ -45,10 +45,10 @@ Software development, algorithms and computer science theories
 <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Vanishing-Point-Estimation&show_owner=true" />
 </a>
 
-### My current research
+### My Previous Research
 Neural radiance field (NeRF) driven controllable portrait generation.
 
-If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t be hesitate to contact me! I am glad to meet new people and make new friends 😃
+If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t hesitate to contact me! I am glad to meet new people and make new friends 😃
   
 </div> 
 
