@@ -13,7 +13,13 @@ I am enthusiastic about learning everything related to computer science and soft
 Artificial Intelligence, Machine Learning, Computer Vision
 
 Software development, algorithms and computer science theories
-  
+
+### My Previous Research
+Neural radiance field (NeRF) driven controllable portrait generation.
+
+<a href="https://github.com/Kuoyuan-Li/3ENeRF">
+<img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=3ENeRF&show_owner=true" />
+</a>
 
 ### My projects
 
@@ -45,12 +51,6 @@ Software development, algorithms and computer science theories
 <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Vanishing-Point-Estimation&show_owner=true" />
 </a>
 
-### My Previous Research
-Neural radiance field (NeRF) driven controllable portrait generation.
-
-<a href="https://github.com/Kuoyuan-Li/3ENeRF">
-<img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=3ENeRF&show_owner=true" />
-</a>
 
 If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t hesitate to contact me! I am glad to meet new people and make new friends 😃
   
