@@ -21,7 +21,10 @@ Neural radiance field (NeRF) driven controllable portrait generation.
 <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=3ENeRF&show_owner=true" />
 </a>
 
-### My projects
+### My University Projects
+<a href="https://github.com/Kuoyuan-Li/GHSeportfolio">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
+</a>
 
 <a href="https://github.com/Kuoyuan-Li/game-shadow-bounce">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=game-shadow-bounce&show_owner=true" />
@@ -34,14 +37,6 @@ Neural radiance field (NeRF) driven controllable portrait generation.
 <a href="https://github.com/Kuoyuan-Li/pacman-AI">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=pacman-AI&show_owner=true" />
 </a>
-
-<a href="https://github.com/Kuoyuan-Li/GHSeportfolio">
-  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=GHSeportfolio&show_owner=true" />
-</a>
-  
-<a href="https://github.com/Kuoyuan-Li/Azure-CookingTimeEstimation">
-  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Azure-CookingTimeEstimation&show_owner=true" />
-</a>
   
 <a href=" https://github.com/Kuoyuan-Li/NaiveBayes-from-scratch">
   <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=NaiveBayes-from-scratch&show_owner=true" />
@@ -51,6 +46,12 @@ Neural radiance field (NeRF) driven controllable portrait generation.
 <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Vanishing-Point-Estimation&show_owner=true" />
 </a>
 
+### My Extracurricular Projects
+
+<a href="https://github.com/Kuoyuan-Li/Azure-CookingTimeEstimation">
+  <img alt="kkt" src="https://github-readme-stats.vercel.app/api/pin/?username=kuoyuan-li&repo=Azure-CookingTimeEstimation&show_owner=true" />
+</a>
+  
 
 If you are interested in AI/ML/CV and would love to learn with me (or help me), don’t hesitate to contact me! I am glad to meet new people and make new friends 😃
   
